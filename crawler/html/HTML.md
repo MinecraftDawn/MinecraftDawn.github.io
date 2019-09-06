@@ -1,3 +1,7 @@
+---
+tags: Crawler,Web,HTML
+---
+
 # HTML
 
 ## 簡介
@@ -19,15 +23,30 @@
 
 <img src="https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png" width="500">
 
+## 重要標籤
+> &lt;a&gt; 超連結
+> 
+> &lt;div&gt; 區塊
+> 
+> &lt;h1~h6&gt; 標題
+>> &lt;h1&gt; 第一大標題
+>> &lt;h2&gt; 第二大標題
+>> &lt;h3&gt; 第三大標題
+>> &lt;h4&gt; 第四大標題
+>> &lt;h5&gt; 第五大標題
+>> &lt;h6&gt; 第六大標題
+>
+> &lt;p&gt; 段落
 
-
+詳細資訊可參考： [HTML Tag List]
 
 ## Reference： 
 > 1. [w3school.com] 
 > 2. [WIKIPEDIA]
 > 3. [MDN web docs]
-
+> 4. [HTML Tag List]
 
 [w3school.com]: https://www.w3schools.com/html/
 [MDN web docs]: https://developer.mozilla.org/zh-TW/docs/Learn/Getting_started_with_the_web/HTML_basics
 [WIKIPEDIA]: https://wikipedia.org/wiki/HTML
+[HTML Tag List]: https://www.w3schools.com/tags/
