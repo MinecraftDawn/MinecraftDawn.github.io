@@ -10,12 +10,14 @@ tags: Crawler, Web
 ## 前備知識
 - Web page
 -- [HTML]
--- CSS
+-- [CSS]
 -- JavaScript
 
 - Request
 
 ## Reference
 > 1. [HTML]
+> 2. [CSS]
 
 [HTML]: crawler/html/HTML.html
+[CSS]: https://developer.mozilla.org/en-US/docs/Learn/CSS
